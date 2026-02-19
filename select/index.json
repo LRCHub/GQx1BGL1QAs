@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "anger",
+  "base_artist": "GINGA",
+  "createdAt": "2026-02-19T02:50:03.006278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DON'T LOOK BACK IN ANGER",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/01_DON'T_LOOK_BACK_IN_ANGER_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Look Back In Anger",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/02_Look_Back_In_Anger_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Look Back In Anger",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/03_Look_Back_In_Anger_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Look Back in Anger",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/04_Look_Back_in_Anger_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "St. Anger",
+      "artist": "Beginner",
+      "has_synced": true,
+      "path": "select/05_St._Anger_Beginner.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Look Back In Anger",
+      "artist": "Yumi Zouma",
+      "has_synced": true,
+      "path": "select/06_Don't_Look_Back_In_Anger_Yumi_Zouma.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Anger Management",
+      "artist": "Lovage",
+      "has_synced": true,
+      "path": "select/07_Anger_Management_Lovage.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love and Anger",
+      "artist": "Nada Surf",
+      "has_synced": true,
+      "path": "select/08_Love_and_Anger_Nada_Surf.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Look Back In Anger (Live at Knebworth, 11 August '96)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/09_Don't_Look_Back_In_Anger_(Live_at_Knebworth,_11_August_'96)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Look Back In Anger (Live at Knebworth)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/10_Don't_Look_Back_In_Anger_(Live_at_Knebworth)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Look Back in Anger",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/11_Don't_Look_Back_in_Anger_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Offence (Detroit Swindle's Anger Management remix)",
+      "artist": "Hercules and Love Affair feat. Krystle Warren",
+      "has_synced": false,
+      "path": "select/12_My_Offence_(Detroit_Swindle's_Anger_Management_remix)_Hercules_and_Love_Affair_feat._Krystle_Warren.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "anger",
+      "artist": "GINGA",
+      "has_synced": false,
+      "path": "select/pl_01_anger_GINGA.txt"
+    }
+  ]
+}
